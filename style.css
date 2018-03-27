@@ -13,17 +13,10 @@ body, html {
     background-size: cover;
 }
 
-#home {
-  background: url(https://images.unsplash.com/photo-1487284122274-e864e9dec2bf?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5edd950e986d5ed7b84a908bf6df269f&auto=format&fit=crop&w=1051&q=80);
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 
 /* First image (Logo. Full height) */
 .bgimg-1 {
-    background-image: url('/w3images/parallax1.jpg');
+    background-image: url('https://images.unsplash.com/photo-1487284122274-e864e9dec2bf?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5edd950e986d5ed7b84a908bf6df269f&auto=format&fit=crop&w=1051&q=80');
     min-height: 100%;
 }
 
@@ -35,7 +28,7 @@ body, html {
 
 /* Third image (Contact) */
 .bgimg-3 {
-    background-image: url("/w3images/parallax3.jpg");
+    background-image: url("https://images.unsplash.com/photo-1483058712412-4245e9b90334?ixlib=rb-0.3.5&s=c1058ecb478c4833b4cbf3133d7d10f1&auto=format&fit=crop&w=1050&q=80");
     min-height: 400px;
 }
 
