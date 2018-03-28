@@ -69,3 +69,21 @@ body, html {
   margin-top: -10%;
   font-size: 15px;
 }
+
+footer {
+  height: 100px;
+}
+
+.footer-holder {
+  margin: 0;
+  justify-content: flex-start;
+  opacity: 0.8;
+}
+
+.project-holder > div {
+  margin-top: 25px;
+}
+.project {
+  height: 150px;
+  width: 100%;
+}
