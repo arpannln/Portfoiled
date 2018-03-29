@@ -90,10 +90,11 @@ footer {
 }
 
 #profile {
-  position: absolute;
-  height: 200px;
-  width: 200px;
+  position: relative;
+  height: 30vw;
   display: flex;
-  margin-left: 40%;
+  margin: auto;
+  opacity: 1;
   border-radius: 200px;
+  margin-bottom: 20px;
 }
