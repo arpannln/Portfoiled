@@ -97,4 +97,5 @@ footer {
   opacity: 1;
   border-radius: 200px;
   margin-bottom: 20px;
+  z-index: 500;
 }
