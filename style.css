@@ -99,3 +99,7 @@ footer {
   margin-bottom: 20px;
   z-index: 500;
 }
+
+p {
+  height: 100px;
+}
